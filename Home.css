@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+.app-title{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    
+}
+
+.search-bar{
+    margin: 10px auto;
+    width: 60%;
+    padding: 10px;
+    display: block;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color:aquamarine;
+    border: 3px solid black;
+}
+
+.temperature-text{
+    text-align: center;
+    font-size: 40px;
+}
+
+.message-text{
+    text-align: center;
+    font-size: 30px;
+}
